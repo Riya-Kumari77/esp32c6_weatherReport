@@ -83,35 +83,6 @@ ESP32 Web Server
 * Arduino IDE
 * ArduinoJson Library
 
-## Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/ESP32-Global-Weather-Dashboard.git
-```
-
-2. Open the project in Arduino IDE
-
-3. Update Wi-Fi credentials
-
-```cpp
-const char* ssid = "YOUR_WIFI";
-const char* password = "YOUR_PASSWORD";
-```
-
-4. Upload the code to ESP32
-
-5. Open Serial Monitor
-
-6. Copy the displayed IP address
-
-```text
-ESP32 IP: 192.168.1.xxx
-```
-
-7. Open the IP address in your browser
-
 ## Example Usage
 
 Search for:
